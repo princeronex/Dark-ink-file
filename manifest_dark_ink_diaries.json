@@ -1,0 +1,21 @@
+{
+  "name": "Dark Ink Diaries",
+  "short_name": "DarkInk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://yourhost.com/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://yourhost.com/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
